@@ -1,0 +1,14 @@
+{
+  "name": "cgtest",
+  "version": "1.0.0",
+  "description": "CG dev test",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ilia Anferov <blinddreamwalker@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}

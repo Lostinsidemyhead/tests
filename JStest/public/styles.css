@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body {
+    text-align: center;
+    background-color: #1c3d50;
+}
+#app{
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: #548cad;
+    padding: 10px;
+}
+#menu{
+    margin-top: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+}   
+.container{
+    width: 800px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px; 
+    background-color: #ffffff;
+    color: #1c3d50;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    float: left;
+}
+button:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
